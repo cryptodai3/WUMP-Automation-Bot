@@ -14,38 +14,7 @@ Automate your daily WUMP claims and tasks so you can focus on what really matter
 
 ---
 
-## Getting Started
-
-1️⃣ Clone the repo:
-
-```bash
-git clone https://github.com/cryptodai3/WUMP-Automation-Bot.git
-```
-```bash
-cd WUMP-Automation-Bot
-````
-
-2️⃣ Install dependencies:
-
-```bash
-npm install axios user-agents
-```
-
-3️⃣ Add your **Bearer Token**:
-
-```bash
-nano tokens.txt
-```
-
-Paste your token inside and save.
-
-4️⃣ Run the bot:
-
-```bash
-node index.js
-```
-
----
+## Full Tutorial Join [https://t.me/YetiDAO](https://t.me/YetiDAO/56)
 
 ## Notes
 
